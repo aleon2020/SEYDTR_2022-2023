@@ -42,7 +42,7 @@ Por último, se detallan los pasos para compilar y ejecutar cada una de estas pr
 ```sh
 $ cd Desktop/
 $ git clone https://github.com/aleon2020/SEYDTR_2022-2023.git
-$ cd SEYDTR_2022-2023/
+$ cd SEYDTR_2022-2023/Prácticas/
 $ cd 'Práctica 1: Multithreading en C y GNU-Linux'/
 $ cd 'Práctica 2: CyclictestURJC, cálculo de latencias'/
 $ cd src/
