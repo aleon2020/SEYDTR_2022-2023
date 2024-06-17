@@ -59,18 +59,10 @@ $ ./<executable>
 
 ## 4. Referencias
 
-Librería pthread:
+[LIBRERÍA PTHREAD](https://www.cs.cmu.edu/afs/cs/academic/class/15492-f07/www/pthreads.html)
 
-https://www.cs.cmu.edu/afs/cs/academic/class/15492-f07/www/pthreads.html
+[TUTORIAL DE MAKEFILE](https://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/)
 
-Tutorial de MakeFile:
+[GUÍA DE ESTILO](https://gitlab.etsit.urjc.es/roberto.calvo/setr/-/wikis/Guia-de-Estilo-C)
 
-https://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/
-
-Guía de estilo:
-
-https://gitlab.etsit.urjc.es/roberto.calvo/setr/-/wikis/Guia-de-Estilo-C
-
-Repositorio GitLab de la asignatura:
-
-https://gitlab.etsit.urjc.es/roberto.calvo/setr
+[REPOSITORIO GITLAB DE LA ASIGNATURA](https://gitlab.etsit.urjc.es/roberto.calvo/setr)
